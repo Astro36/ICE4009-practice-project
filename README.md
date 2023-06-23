@@ -11,7 +11,7 @@
 | 2    | [Uniform & Gaussian Distribution](./week02)                            |
 | 3    | [Matlab Basic](./week03)                                               |
 | 5    | [Sampling](./week05)                                                   |
-| 6    | [Sampling, Quantization, Encoding, Decoding, Reconstruction](./week06) |
+| 6    | [Sampling, Quantization, Encoding, Decoding, and Reconstruction](./week06) |
 | 7    | [BPSK](./week07)                                                       |
 | 9    | [QPSK](./week09)                                                       |
 | 10   | [BPSK in Rayleigh Channel](./week10)                                   |
@@ -28,7 +28,7 @@
 | --------------------------------------- | ---------------------------------- |
 | ![Uniform](./week02/uniform_n10000.jpg) | ![Gaussian](./week02/gaussian.jpg) |
 
-### Sampling, Quantization, Encoding, Decoding, Reconstruction
+### Sampling, Quantization, Encoding, Decoding, and Reconstruction
 
 | SQEDR                        |
 | ---------------------------- |
